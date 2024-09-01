@@ -1,1 +1,32 @@
-
+.container{
+	width: 100;
+}
+body{
+	background-color:#f0f0f0;
+}
+/* .Profile-Info{
+	padding: 10px;
+	display: flex ;
+	align-items: center;
+	width: 50% */
+}
+.name{
+	display: flex;
+	align-items: center;
+}
+.Profile{
+	display: flex;
+	align-items: center;
+}
+.Email{
+	display: flex;
+	align-items: center;
+}
+.logo img{
+	width: 20px;
+	height: 20px;
+	padding-right: 10px;
+}
+#knowledge{
+	width: 50%;
+}
